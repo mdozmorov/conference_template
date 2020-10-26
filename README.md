@@ -9,6 +9,8 @@ Clone and, assuming [hugo](https://gohugo.io/getting-started/installing/) is ins
 rm -rf public; hugo --verbose; hugo server --disableFastRender --verbose
 ```
 
+Host your site on [Netlify](https://www.netlify.com/), as described [here](https://bookdown.org/yihui/blogdown/netlify.html). Use build command `hugo`, publish directory `public`, and set advanced variable `HUGO_VERSION` to your `hugo version` number, e.g., 0.76.5
+
 # Highlights
 
 - Optimal rendering on desktop and mobile devices
@@ -98,7 +100,12 @@ static/
     │   ├── person-3.png
     │   └── person-4.jpg
     ├── logo-small.png - logos for the navigation bar
-    └── logo.png
+    ├── logo.png
+    ├── photogrid.jpg - background image for carousel
+    ├── texture-bw.png - background textures
+    ├── texture-green.png
+    ├── texture-turquoise.png
+    └── texture-violet.png
 ```
 
 Partials. Only those that are used have comments

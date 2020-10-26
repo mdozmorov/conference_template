@@ -1,5 +1,7 @@
 # Conference template
 
+See it in action at [https://conference-template.netlify.app/](https://conference-template.netlify.app/)
+
 Created using modified [hugo-universal-theme](https://github.com/devcows/hugo-universal-theme). See the [demo web site](https://themes.gohugo.io/theme/hugo-universal-theme/), the original [github repository](https://github.com/devcows/hugo-universal-theme) and the [exampleSite files](https://github.com/devcows/hugo-universal-theme/tree/master/exampleSite). Template by [Bootstrapious](https://bootstrapious.com/p/universal-business-e-commerce-template). Ported to Hugo by [DevCows](https://github.com/devcows/hugo-universal-theme).
 
 The theme is added as selected files, not as a submodule, for easier modification.
